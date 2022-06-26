@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,28 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Mat383's Mat383 Addon v1.3.0 (B)",
-        "role": "Over the past few months, I have been making an addon that adds a variety of fun and useful blocks, items, crafting recipes, and retextured content.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/Mat383haviour Pack 1.3.0.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/1.png"
-    },
-    {
-        "name": "Mat383's Mat383 Addon v1.3.0 (R)",
-        "role": "Over the past few months, I have been making an addon that adds a variety of fun and useful blocks, items, crafting recipes, and retextured content.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/6.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/Mat383source Pack 1.3.0.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/4.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Peppa/1/5.png"
-    },
-    {
-        "name": "Flat Skins Skin Pack v. 5.0 - FNaF Update Pt. I",
-        "role": "Have you ever been annoyed by how 3D all of the Minecraft skins are? Bet you weren't, but now you will! Because after you'll try this wonderful skin pack you won't be able to use any other skins, as they won't be as awesome as these skins are.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Peppa/2/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Peppa/2/flatskins_v5.0.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Peppa/2/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Peppa/2/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
